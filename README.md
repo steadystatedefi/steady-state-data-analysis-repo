@@ -7,7 +7,7 @@ The official Steady State (SST) data analysis notebook is a primal iteration of 
 
 The Risk Analysis Database(RAD) hosts a dynamic collection of granular data in exploits/hacks in the decentralized finance industry. The granularity is represented in the exploit metadata we capture such as block ids, contract hashes, and hacker public addresses.
 
-Columns are data values. Within the RAD, the data values to be analyzed are the following: Date of Exploit, Market Cap, TVL, and ETH gas used. Quantitative data guides the risk assessment process as we determine risk using those factors.
+Columns are data values. Within the RAD, the data values to be analyzed are the following: Date of Exploit, Market Cap, TVL, and ETH gas used in exploit. Quantitative data guides the risk assessment process as we determine risk using those factors.
 
 ## Market Cap Relevance
 The following notebook has a parochial focus on the impact of the ($) dollar value of DeFi protocols' market cap and the nature of the exploit. In conclusion, we have gathered that protocols with low market caps during exploits tend to be orchestrated rug pulls. 
