@@ -3,7 +3,7 @@
 The official [Steady State (SST)](steadystate.finance) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the SST software development team.
 
 
-## Risk Analysis Database -- Open source 
+## Risk Analysis Database v1 -- Open source 
 
 The Risk Analysis Database(RAD) hosts a dynamic collection of granular data in exploits/hacks in the decentralized finance industry. The granularity is represented in the exploit metadata we capture such as block ids, contract hashes, and hacker public addresses.
 
