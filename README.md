@@ -17,7 +17,7 @@ Coalitions of token holders participate in ["pump and dump"](https://www.investo
 
 <!-- image -->
 <p style="text-align:center;">
-  <img src="LowCap.png" alt="Steady State Finance" width="380" class="center" style="border:none;"/>
+  <img src="LowCap.png" alt="Steady State Finance" width="400" class="center" style="border:none;"/>
 </p>
 
 #### 📈  Analyzing Protocols with High Market Caps
