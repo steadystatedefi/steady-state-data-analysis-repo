@@ -13,9 +13,12 @@ Columns are data values. Within the RAD, the data values to be analyzed are the 
 The following notebook has a parochial focus on the impact of the ($) dollar value of DeFi protocols' market cap and the nature of the exploit. In conclusion, we have gathered that protocols with low market caps during exploits tend to be orchestrated rug pulls. 
 
 #### 📉  Analyzing Protocols with Low Market Caps
-Coalitions of token holders participate in "pump and dump" schemes meaning new token holders are invited to pump the price of the coin while old token holders immediately dump their tokens for profit. Protocols with high market caps have much more variance in exploit behavior. 
+Coalitions of token holders participate in ["pump and dump"](https://www.investopedia.com/terms/p/pumpanddump.asp) schemes meaning new token holders are invited to pump the price of the coin while old token holders immediately dump their tokens for profit. Protocols with high market caps have much more variance in exploit behavior. 
 
 <!-- image -->
+<p style="text-align:center;">
+  <img src="LowCap.png" alt="Steady State Finance" width="450" class="center" style="border:none;"/>
+</p>
 
 #### 📈  Analyzing Protocols with High Market Caps
 Protocols with high market caps tend to be subject to smart contract exploits and flash loan attacks. Smart contract exploits have resulted in over $500 million (USD) over the past 4 years in the DeFi industry. Market Cap at the time of exploits/hacks do in fact have relevance.
