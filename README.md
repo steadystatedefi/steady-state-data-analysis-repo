@@ -1,6 +1,6 @@
 ## Steady State Preliminary Exploit Analysis
 
-The official Steady State (SST) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the SST software development team.
+The official [Steady State (SST)](steadystate.finance) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the SST software development team.
 
 
 ## Risk Analysis Database -- Open source 
