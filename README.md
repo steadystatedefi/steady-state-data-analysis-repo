@@ -1,6 +1,6 @@
 ## Steady State Preliminary Exploit Analysis
 
-The official [Steady State (SST)](steadystate.finance) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the SST software development team.
+The official [Steady State (SST)](https://steadystate.finance/) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the SST software development team.
 
 
 ## Risk Analysis Database v1 — beta (updated 08-23-2021) 
@@ -21,4 +21,4 @@ Coalitions of token holders participate in ["pump and dump"](https://www.investo
 </p>
 
 #### 📈  Analyzing Protocols with High Market Caps
-Protocols with high market caps tend to be subject to smart contract exploits and flash loan attacks. Smart contract exploits have resulted in over $500 million (USD) over the past 4 years in the DeFi industry. Market Cap at the time of exploits/hacks do in fact have relevance.
+Protocols with high market caps tend to be subject to smart contract exploits and flash loan attacks. Smart contract exploits have resulted in over $500 million (USD) TVL in over 4 years in the DeFi industry. Market Cap at the time of exploits/hacks imperative relevance and will be assessed in the RAD risk assessment algorithm.
