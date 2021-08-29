@@ -7,7 +7,7 @@ The official [Steady State (SST)](https://steadystate.finance/) data analysis no
 
 The Risk Analysis Database(RAD) hosts a dynamic collection of granular data in exploits/hacks in the decentralized finance industry. The granularity is represented in the exploit metadata we capture such as block ids, contract hashes, and hacker public addresses.
 
-Within the RAD, the data values analyzed are the following: Date of Exploit, Market Cap, TVL, and ETH gas used in exploit. The quantitative data guides risk assessment process as we determine the weight of risk using those factors coupled with qualitative and cateogorical factors.
+Within the RAD, the data values analyzed are the following: Date of Exploit, Market Cap, DVL(dollar value lost), and ETH gas used in exploit. The quantitative data guides risk assessment process as we determine the weight of risk using those factors coupled with qualitative and cateogorical factors.
 
 ## Market Cap Relevance
 The following notebook has a parochial focus on the impact of the ($) dollar value of DeFi protocols' market cap and the nature of the exploit. In conclusion, we have gathered that protocols with low market caps during exploits tend to be orchestrated rug pulls. 
@@ -21,4 +21,4 @@ Coalitions of token holders participate in ["pump and dump"](https://www.investo
 </p>
 
 #### 📈  Analyzing Protocols with High Market Caps
-Protocols with high market caps tend to be subject to smart contract exploits and flash loan attacks. Smart contract exploits have resulted in over $500 million (USD) TVL in over 4 years in the DeFi industry. Market Cap at the time of exploits/hacks imperative relevance and will be assessed in the RAD risk assessment algorithm.
+Protocols with high market caps tend to be subject to smart contract exploits and flash loan attacks. Smart contract exploits have resulted in over $500 million (USD) DVL in over 4 years in the DeFi industry. Market Cap at the time of exploits/hacks imperative relevance and will be assessed in the RAD risk assessment algorithm.
