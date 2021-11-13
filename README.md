@@ -1,7 +1,6 @@
 # Steady State Preliminary Exploit Analysis
 
-The official [Steady State (SST)](https://steadystate.finance/) data analysis notebook is a primal iteration of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the Steady State Finance software development team. Throughout this analysis we can answer questions exclusive to the Decentralized Finance industry's exploit patterns and proclivities. 
-
+The official [Steady State Finance (SST)](https://steadystate.finance/) data analysis notebook is a collection of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the Steady State Finance software development team. Throughout this analysis, we have answered questions exclusive to the decentralized finance(DeFi) industry's exploit patterns and proclivities based on data dating back to 2016. There is no agreed upon date for the inception of the DeFi industry, but the Etheruem launch in 2015 spearheaded protocols such as Maker and others to launch and generate what we now know as DeFi industry. 
 
 ## Risk Analysis Database v1 — beta (updated 08-23-2021) 
 
@@ -10,7 +9,8 @@ The Risk Analysis Database(RAD) hosts a dynamic collection of granular data in e
 Within the RAD, the data values analyzed are the following: Date of Exploit, Market Cap, DVL(dollar value lost), and ETH gas used in exploit. The quantitative data guides risk assessment process as we determine the weight of risk using those factors coupled with qualitative and cateogorical factors.
 
 ## Market Cap Relevance
-The following notebook has a parochial focus on the impact of the ($) dollar value of DeFi protocols' market cap and the nature of the exploit. In conclusion, we have gathered that protocols with low market caps during exploits tend to be orchestrated rug pulls. 
+The following notebook has a parochial focus on the impact of the ($) dollar value of DeFi protocols' market cap and the nature of the exploit. In conclusion, we have gathered that protocols with low market caps during exploits tend to be orchestrated rug pulls.
+
 
 #### 📉  Analyzing Protocols with Low Market Caps
 Coalitions of token holders participate in ["pump and dump"](https://www.investopedia.com/terms/p/pumpanddump.asp) schemes meaning new token holders are invited to pump the price of the coin while old token holders immediately dump their tokens for profit. Protocols with high market caps have much more variance in exploit behavior. 
