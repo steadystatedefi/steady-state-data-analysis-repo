@@ -1,4 +1,4 @@
-# Steady State DeFi Industry Exploit Taxonomy
+# DeFi Industry Exploit Taxonomy
 
 **SST Taxonomy for specific Decentralized Finance exploits and hacks**
 
