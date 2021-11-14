@@ -1,11 +1,8 @@
-# Steady State DeFi Cryptocurrency Scam Taxonomy
+# Cryptocurrency Scam Taxonomy
 
 **SST Taxonomy of Common Cryptocurrency Scams**
 </br>
 *General cryptocurrency scams that have occurred since the inception of Bitcoin in 2009*
-</br>
-
-*Author: [Jasmine Brunson](https://www.linkedin.com/in/jasminesbrunson), Head Database Engineer for Steady State*
 </br>
 -   Exit scams
     -   * The founders of the crypto project runs off with customer and investor money.
