@@ -1,6 +1,6 @@
 # DeFi Exploit Analysis
 
-The official [Steady State Finance (SST)](https://steadystate.finance/) data analysis notebook is a collection of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the Steady State Finance software development team. Throughout this analysis, we have answered questions exclusive to the decentralized finance(DeFi) industry's exploit patterns and proclivities based on data dating back to 2016. There is no agreed upon date for the inception of the DeFi industry, but what we now know as DeFi industry has been spearheaded by Maker(2014) and Ethereum(2015). 
+The official [Steady State Finance (SST)](https://steadystate.finance/) data analysis notebook is a collection of [multivariate statistical analysis](https://github.com/steadystatedefi) conducted by the Steady State Finance software development team. Throughout this analysis, we have answered questions exclusive to the decentralized finance(DeFi) industry's exploit patterns and proclivities based on data dating back to 2016. There is no agreed upon date for the inception of the DeFi industry, but what we now know as DeFi industry has been spearheaded by early DeFi lendning platform, Maker(2014) and a smart contracts plaform dubbed "the world computer" by developers Ethereum(2015). 
 
 ## Risk Analysis Database(RAD) v1 — beta (updated 08-23-2021) 
 
